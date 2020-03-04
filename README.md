@@ -14,7 +14,6 @@
 * http://localhost:8034/item/{id}
 * http://localhost:8034/payment/{id}
 
-## Endpoints
 ## POST
 * http://localhost:8034/store
 * http://localhost:8034/order
