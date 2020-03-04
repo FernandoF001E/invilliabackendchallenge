@@ -45,3 +45,6 @@
 	"status": 1
 }
 
+## Application.properties
+* Inform username and password of the oracle database that will perform the test.
+
